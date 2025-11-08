@@ -1,7 +1,8 @@
+![Logo da Estacio](https://imgs.jusbr.com/publications/images/d1501fa84a0be32c8e947e610abc8bd8)
 # DGT2823 — Trabalho Prático (Pandas)
 
 > Tecnologias para Desenvolvimento de Soluções de Big Data — Estácio  
-> **Aluna:** Fernanda Costa — 2025.2
+> **Aluna:** Fernanda Canto P. da Costa — 2025.2
 
 Este repositório contém **todo o projeto** do trabalho prático, incluindo:
 - Dataset original (`data/dados.csv`)
@@ -71,7 +72,3 @@ dgt2823-projeto/
 - Configuração `display.max_rows = 9999` (comentada por padrão)
 - Exibição de `head` e `tail`
 - Uso de `info()` com `memory_usage="deep"`
-
----
-
-Qualquer dúvida, abra uma issue ou envie mensagem. Boa correção! 🎓
